@@ -3,6 +3,7 @@ from kivymd.app import MDApp
 from kivy.lang import Builder
 from modules.people import People
 
+
 class TextScreen(Screen):
     pass
 
